@@ -1,0 +1,37 @@
+Designation,Title,Subtitle,Time,Layer Height,Infill density,Mass,Nozzle dia.,Infill Pattern
+P0,0%,Infill Density,02:24,0.2,0,33,0.4,Grid
+P5,5%,Infill Density,02:31,0.2,5,35,0.4,Grid
+P10,10%,Infill Density,02:36,0.2,10,38,0.4,Grid
+P15,15%,Infill Density,02:42,0.2,15,41,0.4,Grid
+P20,20%,Infill Density,02:48,0.2,20,43,0.4,Grid
+P25,25%,Infill Density,02:53,0.2,25,46,0.4,Grid
+P30,30%,Infill Density,02:59,0.2,30,48,0.4,Grid
+P50,50%,Infill Density,03:21,0.2,50,58,0.4,Grid
+P75,75%,Infill Density,03:48,0.2,75,71,0.4,Grid
+P100,100%,Infill Density,04:15,0.2,100,83,0.4,Rectlinear
+IP1,3D Honeycomb,Infill Pattern,03:42,0.2,20,44,0.4,3D Honeycomb
+IP2,Adaptive Cubic,Infill Pattern,02:41,0.2,20,40,0.4,Adaptive Cubic
+IP3,Aligned Rectlinear,Infill Pattern,02:47,0.2,20,43,0.4,Aligned Rect.
+IP4,Archimedean Chords,Infill Pattern,02:49,0.2,20,43,0.4,Arch. Chords
+IP5,Concentric,Infill Pattern,02:49,0.2,20,43,0.4,Concentric
+IP6,Cubic,Infill Pattern,02:48,0.2,20,43,0.4,Cubic
+IP7,Grid,Infill Pattern,02:48,0.2,20,43,0.4,Grid
+IP8,Gyroid,Infill Pattern,03:16,0.2,20,43,0.4,Gyroid
+IP9,Hilbert Curve,Infill Pattern,03:19,0.2,20,43,0.4,Hilbert Curve
+IP10,Honeycomb,Infill Pattern,03:38,0.2,20,46,0.4,Honeycomb
+IP11,Line,Infill Pattern,02:47,0.2,20,43,0.4,Line
+IP12,Octagram,Infill Pattern,02:52,0.2,20,43,0.4,Octagram
+IP13,Rectlinear,Infill Pattern,02:48,0.2,20,43,0.4,Rectlinear
+IP14,Stars,Infill Pattern,02:48,0.2,20,43,0.4,Stars
+IP15,Triangles,Infill Pattern,02:49,0.2,20,43,0.4,Triangles
+E25,0.25mm,Nozzle Diameter (data for Einstein bust only),63:54,0.05,20,78,0.25,Gyroid
+E40,0.40mm,Nozzle Diameter (data for Einstein bust only),18:38,0.1,20,88,0.4,Gyroid
+E60,0.60mm,Nozzle Diameter (data for Einstein bust only),07:48,0.15,20,89,0.6,Gyroid
+I0,Ironing,,07:29,0.2,50,73,0.4,Grid
+B0,Bridging,,06:49,0.2,20,94,0.4,Grid
+S0,Supports,,08:39,0.2,20,119,0.4,Grid
+LH1,0.05mm,Layer Height (data for unicorn bust only),16:47,0.05,20,34,0.4,Gyroid
+LH2,0.10mm,Layer Height (data for unicorn bust only),07:41,0.1,20,33,0.4,Gyroid
+LH3,0.15mm,Layer Height (data for unicorn bust only),05:14,0.15,20,35,0.4,Gyroid
+LH4,0.20mm,Layer Height (data for unicorn bust only),04:06,0.2,20,33,0.4,Gyroid
+LH5,0.30mm,Layer Height (data for unicorn bust only),02:22,0.3,20,35,0.4,Grid
